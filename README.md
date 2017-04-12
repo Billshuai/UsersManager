@@ -7,4 +7,4 @@
 *  4.popupWindow的正常使用
 
 ### 效果图 
-![效果图](http://img.blog.csdn.net/20170412102127396?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQmluZ3NtYW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![效果图](https://github.com/Billshuai/UsersManager/blob/master/image/2.png)
